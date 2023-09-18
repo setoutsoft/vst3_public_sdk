@@ -119,6 +119,7 @@ private:
 	bool inOnsize = false;
 	bool mCanResize = true;
 	bool mAttached = false;
+	bool sizeRequest = false;
 };
 
 //-----------------------------------------------------------------------------
